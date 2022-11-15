@@ -1,0 +1,12 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_SOD-123,1,swd,
+ISOLATOR1,SMDIP-8_W9.53mm,1,6N138,
+J1,PinHeader_1x02_P1.27mm_Vertical,1,TRS,
+JP1,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,1,RAW5V,
+JP2,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,1,VCC5V,
+MCP42010,TSSOP-14-1EP_4.4x5mm_P0.65mm,1,MCP42010,
+POTW1,PinHeader_1x02_P1.27mm_Vertical,1,POT-,
+R1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10KOhm,
+R2,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,470Ohm,
+R3,R_0805_2012Metric,1,220Ohm,
+U1,melodyus-controller,1,ProMicro,

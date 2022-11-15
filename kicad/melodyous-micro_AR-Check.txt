@@ -1,0 +1,8 @@
+VIAS that Pass = 7; Fails = 0
+AR PTH violation of 1e-06 at XY 107.9246,81.2546
+AR PTH violation of 1e-06 at XY 110.4646,81.2546
+AR PTH violation of 1e-06 at XY 115.5446,81.2546
+AR PTH violation of 1e-06 at XY 115.5446,66.0146
+AR PTH violation of 1e-06 at XY 113.0046,66.0146
+TH PADS that Pass = 23; Fails = 5
+NPTH PADS that Pass = 0; Fails = 0
